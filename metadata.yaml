@@ -1,5 +1,5 @@
 homepage: "https://www.bytesmatter.io"
 documentation: "https://www.bytesmatter.io/TODO_documentation_link"
 versions:
-  - sha: TODO
+  - sha: 63872ec748075229d97e2ad63c04026cbe631626
     changeNotes: Initial Version
