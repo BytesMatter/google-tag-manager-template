@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "BytesMatter Real User Monitoring",
+  "categories": ["ANALYTICS", "CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "BytesMatter Real User Monitoring Custom Template",
