@@ -1,7 +1,7 @@
 homepage: "https://www.bytesmatter.io"
 documentation: "https://www.bytesmatter.io/google-tag-manager-installations/"
 versions:
-  - sha: ded6318c8763dad4161fddc95f833de2880dd81b
+    - sha: ded6318c8763dad4161fddc95f833de2880dd81b
     changeNotes: Including terms of service
 
     - sha: 0cec08d1ad7687327dc562b47c8dffb6cc00a34f
