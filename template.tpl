@@ -54,6 +54,7 @@ const beaconUrl = 'https://www.bytesmatter.io/dashboard/beacon_gtm.min.js';
 setInWindow('_perfWeb_', {
     key: account,
     errors: [],
+    async: [],
     scriptManager: 'googleTagManager'
 }, true);
 
