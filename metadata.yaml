@@ -4,7 +4,7 @@ versions:
   - sha: b8ccb13f6e1053b91d6ddeefac51bdc206bb10b3
     changeNotes: Configuration object requires the container (array) for async metadata to be present at the point of initialisation
   
-    - sha: ded6318c8763dad4161fddc95f833de2880dd81b
+  - sha: ded6318c8763dad4161fddc95f833de2880dd81b
     changeNotes: Including terms of service
 
   - sha: 0cec08d1ad7687327dc562b47c8dffb6cc00a34f
