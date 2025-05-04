@@ -1,6 +1,9 @@
 homepage: "https://appservation.net"
 documentation: "https://appservation.net/google-tag-manager-installations/"
 versions:
+  - sha: 1f6ca281e43a10633dd59ed2439fd1eb489c390a
+    changeNotes: Correcting descriptions for new domain
+    
   - sha: 6f03a0be5d60a5083928f1f0df0cc904eef72b06
     changeNotes: Using new domain new
     
